@@ -1,15 +1,6 @@
 <h1 align="center">[Discord] - Fake Nitro Proof Generator (V1.0.0)</h1>
 <p align="center">
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
-  </a>
-  <a href="https://github.com/AstraaDev/Discord-Fake-Nitro-Proof-Generator">
-    <img src="https://img.shields.io/badge/covarage-90%25-green">
-  </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-Fake-Nitro-Proof-Generator.svg?label=Repo%20size&style=flat-square">
-  </a>
-
+ 
 <p align="center">
   [Discord] - Fake Nitro Proof Generator is a Script Gathering for Windows systems written in Python.
 </p>
