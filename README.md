@@ -47,11 +47,11 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/AstraaDev/Discord-Fake-Nitro-Proof-Generator.git
+$ git clone https://github.com/Levyka/Discord-Fake-Nitro-Proof-Generator.git
 $ python -m pip install -r requirements.txt
 $ python main.py
 ```
 
 ## Additional Informations
 General Informations:
-- If you find any malfunction, contact me on Discord: Sublime#1000 or join my [Discord Server](https://dsc.gg/astraadev).
+- If you find any malfunction, contact me on Discord: Levy#0001.
