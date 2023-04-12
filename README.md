@@ -45,4 +45,4 @@ $ python main.py
 
 ## Additional Informations
 General Informations:
-- If you find any malfunction, contact me on Discord: Levy#0001.
+- If you find any malfunction, contact me.
