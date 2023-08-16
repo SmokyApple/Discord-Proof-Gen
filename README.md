@@ -46,3 +46,4 @@ $ python main.py
 ## Additional Informations
 General Informations:
 - If you find any malfunction, contact me.
+[![Run on Repl.it](https://replit.com/badge/github/Levyka/Discord-Proof-Gen)](https://replit.com/new/github/Levyka/Discord-Proof-Gen)
